@@ -35,3 +35,49 @@
     border: 1px solid #ffffff;
     border-radius: 10px;
 }
+.hero-titulo{
+    margin: 20px;
+
+    color: #095075;
+    font-family: 'Barlow';
+    font-size: 26px;
+}
+.hero-texto{
+    margin: 20px;
+    color: #096394;
+    font-family: 'Barlow';
+    font-size: 16px;
+}
+.hero-texto span{
+    font-weight: bold;
+}
+.image-hero{
+    width: 400px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 240px;
+}
+.card-primario{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color: #095075;
+    color: white;
+    padding: 20px;
+}
+.card-primario button{
+    margin: 20px;
+    border: none;
+    height: 40px;
+    width: 200px;
+    color: #096394;
+}
+.card-link{
+    background-color: white;
+    padding: 10px;
+    
+}
